@@ -1,6 +1,6 @@
 {
-    "name": "delivery_app",
-    "short_name": "delivery_app",
+    "name": "fooderlich",
+    "short_name": "fooderlich",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
